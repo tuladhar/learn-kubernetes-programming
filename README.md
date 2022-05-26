@@ -1,4 +1,4 @@
 # Learn Kubernetes Programming
-Learn to talk to Kubernetes cluster using Official Client Go Library.
+Learn to programatically talk to Kubernetes cluster using Official Client Go Library.
 
-![image](https://user-images.githubusercontent.com/5674762/170286291-f482d420-88d5-4050-8570-69c4bcd8a4e6.png)
+![image (1)](https://user-images.githubusercontent.com/5674762/170426983-a2c4caf6-174c-4c8b-8b6d-61f46c868d7c.png)
